@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import { Form, Icon, Input, Button, Col, Row } from 'antd';
+import { Col, Row } from 'antd';
 
 const Content = styled.div`
 	width: 100%;
